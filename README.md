@@ -1,0 +1,2 @@
+# NinjaDots
+Simple Setup Configs
